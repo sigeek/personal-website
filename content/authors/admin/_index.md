@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Silvia Giammarinaro
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Silvia
+last_name: Giammarinaro
 
 # Status emoji
-status:
-  icon: ☕️
+status: 100% Italian
+  icon: 🍕
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data lover
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Veeva Systems
+    url: https://www.veeva.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -50,22 +50,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:silvia.giammarinaro@gmail.com'
+    label: Email me
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sigeek
+    label: Check out my project
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/silvia-giammarinaro/
+    label: Let's connect
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
