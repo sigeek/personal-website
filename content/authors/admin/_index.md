@@ -18,8 +18,8 @@ role: Data lover
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Veeva Systems
-    url: https://www.veeva.com/
+#  - name: Veeva Systems
+#    url: https://www.veeva.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -63,9 +63,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+ # - icon: cv
+ #   icon_pack: ai
+ #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data analyst based inn Berlin with 2+ years of experience in data analytics and software engineering.
 {style="text-align: justify;"}
