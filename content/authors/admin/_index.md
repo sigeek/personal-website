@@ -55,7 +55,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/sigeek
-    label: Check out my project
+    label: Check out my projects
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/silvia-giammarinaro/
