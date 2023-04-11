@@ -7,8 +7,8 @@ first_name: Silvia
 last_name: Giammarinaro
 
 # Status emoji
-status: Italian
-  icon: 
+status: 
+  icon: 🍕
 
 # Is this the primary user of the site?
 superuser: true
