@@ -7,7 +7,7 @@ first_name: Silvia
 last_name: Giammarinaro
 
 # Status emoji
-status: 100% Italian
+status: 100\% Italian
   icon: 🍕
 
 # Is this the primary user of the site?
